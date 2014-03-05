@@ -1,5 +1,7 @@
-OGC(r) SensorML schema - ReadMe.txt
-===================================
+OGC(r) SensorML schema
+======================
+This repository hosts the OGC-approved versions of the Sensor Model Language (SensorML) 
+schema. We are adding this as a public service as the schemas are not hosted on Github
 
 OpenGIS Sensor Model Language (SensorML) Encoding Standard
 -----------------------------------------------------------------------
